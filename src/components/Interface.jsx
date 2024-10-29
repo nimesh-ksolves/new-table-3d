@@ -106,6 +106,11 @@ export const Interface = () => {
                     control={<Radio />}
                     label="Pink Gold"
                   />
+                  <FormControlLabel
+                    value={"000000"}
+                    control={<Radio />}
+                    label="Black-1"
+                  />
                 </RadioGroup>
               </FormControl>
             </Box>
