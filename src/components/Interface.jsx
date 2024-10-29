@@ -107,9 +107,9 @@ export const Interface = () => {
                     label="Pink Gold"
                   />
                   <FormControlLabel
-                    value={"000000"}
+                    value={"#15b000"}
                     control={<Radio />}
-                    label="Black-1"
+                    label="Green-1"
                   />
                 </RadioGroup>
               </FormControl>
